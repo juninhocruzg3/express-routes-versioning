@@ -1,7 +1,7 @@
 # Express routes versioning
 
 [![Build Status](https://travis-ci.org/juninhocruzg3/express-routes-versioning.svg?branch=master)](https://travis-ci.org/juninhocruzg3/express-routes-versioning)
-[![npm version](https://badge.fury.io/js/express-routes-versioning.svg)](http://badge.fury.io/js/express-routes-versioning)
+[![npm version](https://badge.fury.io/js/%40acruzjr%2Fexpress-routes-versioning.svg)](https://badge.fury.io/js/%40acruzjr%2Fexpress-routes-versioning)
 
 
 A simple node.js module that provides routes versioning for express. You can use middleware easier using a middlewares vector.
