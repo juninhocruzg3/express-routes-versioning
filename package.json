@@ -1,6 +1,6 @@
 {
   "name": "@acruzjr/express-routes-versioning",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple node.js module that provides routes versioning for express. You can use middleware easier using a middlewares vector.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
